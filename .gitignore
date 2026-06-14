@@ -1,0 +1,23 @@
+# Large datasets, archives & raw data
+clef2024-checkthat-lab-main.zip
+factcheck_system_v3.zip
+*.parquet
+*.jsonl
+data_storage/
+factcheck_model/
+factcheck_log.txt
+
+# Copyrighted reference material
+huang24x.pdf
+
+# HF Space (already published separately on Hugging Face)
+factcheckbd/
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env
